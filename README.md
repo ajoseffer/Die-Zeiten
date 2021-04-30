@@ -1,4 +1,4 @@
-# Die-Zeiten
+# die-zeiten
 
 In the process of learning JavaScript, jQuery, and how to incorporate media-queries. 
 The homepage responds to resizing and can fit a myriad of different device screens. After fifteen
